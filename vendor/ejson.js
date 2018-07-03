@@ -497,7 +497,7 @@ EJSON.clone = function (v) {
   }
   // handle other objects
   ret = {};
-  _.each(v, function (value, key) {
+  _.mapObject(v, function (value, key) {
     ret[key] = EJSON.clone(value);
   });
   return ret;
