@@ -3,3 +3,10 @@ vendor/dl.sh
 .npmignore
 .tern-port
 test.js
+src
+tsconfig.json
+webpack.config.js
+.git
+.gitignore
+.gitattributes
+*.tgz

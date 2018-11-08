@@ -1,6 +1,6 @@
 {
   "name": "@webantic/ejson",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "description": "EJSON - Extended and Extensible JSON library from Meteor made compatible for Nodejs and Browserify",
   "main": "index.js",
   "scripts": {
